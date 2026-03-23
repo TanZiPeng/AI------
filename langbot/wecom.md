@@ -17,3 +17,6 @@
 登录 AI 平台，创建好需要接入企业微信的 Agent。
 
 ![创建 Agent](../assets/langbot-wecom-1.png)
+
+
+2、
