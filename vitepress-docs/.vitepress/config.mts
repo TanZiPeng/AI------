@@ -5,6 +5,7 @@ export default defineConfig({
   description: '国民AI知识智能平台使用文档',
   srcDir: 'docs',
   outDir: 'dist',
+  head: [['link', { rel: 'icon', href: '/assets/favicon.ico' }]],
 
   themeConfig: {
     nav: [
