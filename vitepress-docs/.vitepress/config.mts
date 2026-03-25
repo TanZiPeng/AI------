@@ -5,7 +5,7 @@ export default defineConfig({
   description: '国民AI知识智能平台使用文档',
   srcDir: 'docs',
   outDir: 'dist',
-  head: [['link', { rel: 'icon', href: '/assets/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
     nav: [
@@ -14,6 +14,10 @@ export default defineConfig({
       { text: '知识库', link: '/知识库说明/创建知识库' },
       { text: '知识回收', link: '/知识回收/如何使用' },
       { text: '组织架构', link: '/组织架构说明/用户管理' },
+      { text: '词库说明', link: '/词库说明/脱敏词库' },
+      { text: '调试发布', link: '/调试发布/我的助手' },
+      { text: '系统配置', link: '/系统配置说明/模型配置' },
+      { text: '组件说明', link: '/组件说明/组件调用' },
     ],
 
     sidebar: {
