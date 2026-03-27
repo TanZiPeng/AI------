@@ -19,4 +19,3 @@
 ![创建 Agent](../assets/langbot-wecom-1.png)
 
 
-2、

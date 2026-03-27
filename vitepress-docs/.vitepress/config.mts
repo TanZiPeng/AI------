@@ -8,6 +8,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   themeConfig: {
+    logo: '/favicon.ico',
     nav: [
       { text: '开始使用', link: '/开始使用/介绍' },
       { text: '节点说明', link: '/节点说明/工作流/开始' },
