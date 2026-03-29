@@ -108,7 +108,7 @@ export default defineConfig({
           text: '组织架构',
           items: [
             { text: '用户管理', link: '/组织架构说明/用户管理' },
-            { text: '组织架构管理', link: '/组织架构说明/组织架构管理' },
+            { text: '部门管理', link: '/组织架构说明/部门管理' },
             { text: '角色权限管理', link: '/组织架构说明/角色权限管理' },
             { text: '公司信息', link: '/组织架构说明/公司信息' },
           ]
