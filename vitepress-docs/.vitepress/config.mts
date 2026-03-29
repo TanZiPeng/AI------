@@ -89,6 +89,8 @@ export default defineConfig({
           items: [
             { text: '创建知识库', link: '/知识库说明/创建知识库' },
             { text: '知识库配置', link: '/知识库说明/知识库配置' },
+            { text: '召回测试', link: '/知识库说明/召回测试' },
+            { text: '文件授权', link: '/知识库说明/文件授权' },
           ]
         }
       ],
