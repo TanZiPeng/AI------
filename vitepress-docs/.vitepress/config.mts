@@ -121,7 +121,7 @@ export default defineConfig({
           text: '系统配置',
           items: [
             { text: '模型配置', link: '/系统配置说明/模型配置' },
-            { text: '页面配置', link: '/系统配置说明/页面配置' },
+            // { text: '页面配置', link: '/系统配置说明/页面配置' },
           ]
         }
       ],
