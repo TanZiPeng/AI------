@@ -121,7 +121,7 @@ export default defineConfig({
           text: '系统配置',
           items: [
             { text: '模型配置', link: '/系统配置说明/模型配置' },
-            { text: '页面配置', link: '/系统配置说明/页面配置' },
+            // { text: '页面配置', link: '/系统配置说明/页面配置' },
           ]
         }
       ],
@@ -149,6 +149,8 @@ export default defineConfig({
         {
           text: '组件说明',
           items: [
+            { text: '组件中心', link: '/组件说明/组件中心' },
+            { text: '创建组件', link: '/组件说明/创建组件' },
             { text: '组件调用', link: '/组件说明/组件调用' },
           ]
         }
