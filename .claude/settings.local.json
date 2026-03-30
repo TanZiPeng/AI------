@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(python \"c:/Users/tanzipeng/Desktop/documents/AI说明文档/AI------/vitepress-docs/docs/assets/组织架构/view_img.py\")",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
