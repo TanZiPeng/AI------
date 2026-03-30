@@ -89,8 +89,6 @@ export default defineConfig({
           items: [
             { text: '创建知识库', link: '/知识库说明/创建知识库' },
             { text: '知识库配置', link: '/知识库说明/知识库配置' },
-            { text: '召回测试', link: '/知识库说明/召回测试' },
-            { text: '文件授权', link: '/知识库说明/文件授权' },
           ]
         }
       ],
@@ -110,7 +108,7 @@ export default defineConfig({
           text: '组织架构',
           items: [
             { text: '用户管理', link: '/组织架构说明/用户管理' },
-            { text: '部门管理', link: '/组织架构说明/部门管理' },
+            { text: '组织架构管理', link: '/组织架构说明/组织架构管理' },
             { text: '角色权限管理', link: '/组织架构说明/角色权限管理' },
             { text: '公司信息', link: '/组织架构说明/公司信息' },
           ]
@@ -121,7 +119,7 @@ export default defineConfig({
           text: '系统配置',
           items: [
             { text: '模型配置', link: '/系统配置说明/模型配置' },
-            // { text: '页面配置', link: '/系统配置说明/页面配置' },
+            { text: '页面配置', link: '/系统配置说明/页面配置' },
           ]
         }
       ],
@@ -149,8 +147,6 @@ export default defineConfig({
         {
           text: '组件说明',
           items: [
-            { text: '组件中心', link: '/组件说明/组件中心' },
-            { text: '创建组件', link: '/组件说明/创建组件' },
             { text: '组件调用', link: '/组件说明/组件调用' },
           ]
         }
